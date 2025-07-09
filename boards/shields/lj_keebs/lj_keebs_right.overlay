@@ -1,0 +1,5 @@
+#include "lj_keebs.dtsi"
+
+&default_transform {
+    col-offset = <6>;
+};
